@@ -1,0 +1,6 @@
+cryptography
+deep-translator
+pyttsx3
+SpeechRecognition
+nltk
+pyaudio
