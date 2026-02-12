@@ -2,7 +2,6 @@
 
 A secure peer-to-peer terminal chat system built in Python using socket programming and AES encryption for confidential communication.
 
----
 
 ## 🚀 Features
 
@@ -14,7 +13,6 @@ A secure peer-to-peer terminal chat system built in Python using socket programm
 -  Fully offline operation (zero cloud dependency)  
 -  Automatic session data deletion for privacy  
 
----
 
 ##  Tech Stack
 
@@ -26,7 +24,6 @@ A secure peer-to-peer terminal chat system built in Python using socket programm
 - SpeechRecognition  
 - pyttsx3  
 
----
 
 ##  Installation
 
