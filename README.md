@@ -3,7 +3,7 @@
 A secure peer-to-peer terminal chat system built in Python using socket programming and AES encryption for confidential communication.
 
 
-## 🚀 Features
+##  Features
 
 -  AES-128 (Fernet) end-to-end encryption  
 -  Unique session key generation per chat  
